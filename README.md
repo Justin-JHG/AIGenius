@@ -8,6 +8,9 @@ installing vs code extention Azure GitHub Copilot
 
 @azure could you help me create and deploy a simple flask website using python
 
+answer was: 
+azd init --template https://github.com/Azure-Samples/chatgpt-quickstart
+
 
 
 This repository includes a Python app that uses Azure OpenAI to generate responses to user messages.
